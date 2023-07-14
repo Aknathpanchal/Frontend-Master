@@ -1,44 +1,64 @@
-Clone of Frontend Master:
-Website link:-https://frontendmasters.com
-In the construct week of unit-3, we tried to make clone of frontend Master Website.we tried to built as much as functionalities  and pages as the original website.
+# Frontend Master Clone
 
-Description:-
-We had to clone the  frontend Master website. This website is all about learning front-end courses. It provides a lot of courses courses through which one can become a master in front-end. We have made all the pages like landing page,signup page, login page, etc with different functionalities and simple and attractive UI.
+This project is a clone of the [Frontend Master](https://frontendmasters.com) website. It was developed during the construct week of Unit-3. The goal was to recreate the functionalities and pages of the original website.
+
+## Description
+
+The Frontend Master website is an online platform that offers a wide range of front-end courses. It aims to help individuals become experts in front-end development. In this clone project, we have successfully replicated various pages such as the landing page, signup page, login page, and more. Our focus was on creating a simple and attractive user interface while ensuring the functionality matches that of the original website.
+
 <img src="https://miro.medium.com/max/1400/1*qfGIYSCoOtadJiXk-sRAKw.png"/>
 <img src="https://miro.medium.com/max/1400/1*wECzToRl1FGuBKfS8NJJkA.png"/>
 <img src="https://miro.medium.com/max/1400/1*pf_xqmC8tNFu9plwRjgu0g.png"/>
 <img src="https://miro.medium.com/max/1400/1*qMc1Dm6YDqSNTmw1-6kj3Q.png"/>
-Technologies Used:-
-●	HTML
-●	CSS
-●	JAVASCRIPT
 
-Getting Started:-
-We started making our project with an group meeting. We have 6 members in our team. We started a zoom meeting and discussed on which part who will work and divide our task.
-We started with creating a repository on GitHub, and assigned them to the respective person by creating branches.
+## Technologies Used
 
-Dependencies:-
-●	One person going through project should have sound knowledge of HTML,CSS and javascript
-●	 An OS is perfect to run the project.(ex. Windows 10)
+The project was developed using the following technologies:
 
-Executing program:-
-●	First, you need to open zarahome.html page
-●	Then, explore by going through different pages like signup, login, men, women, kids, shoes, etc.
+- HTML
+- CSS
+- JavaScript
 
-Functionalities of the Website:-
-●	Landing page
-●	Signup page
-●	Login page
-●	Dynamic searching
-●	Payment option
+## Getting Started
 
-Contributors:
-●	Aniket Solanki
-●	Muskan Shaw
-●	Sreenath Panchal
-●	Susmita Mandal
-●	Swapnil
-●	Aman
+To begin with, our team of 6 members conducted a group meeting via Zoom. We discussed the project requirements and allocated tasks accordingly. We created a repository on GitHub and assigned branches to each team member. 
+
+### Dependencies
+
+To work on this project, it is necessary to have a sound knowledge of HTML, CSS, and JavaScript. Additionally, an operating system such as Windows 10 is recommended for running the project.
+
+### Executing the Program
+
+To run the project, follow these steps:
+
+1. Open the `zarahome.html` page.
+2. Explore different pages such as signup, login, men, women, kids, shoes, etc.
+
+## Functionalities of the Website
+
+The clone website includes the following functionalities:
+
+- Landing page
+- Signup page
+- Login page
+- Dynamic searching
+- Payment option
+
+## Contributors
+
+The project was developed by the following contributors:
+
+- Aniket Solanki
+- Muskan Shaw
+- Sreenath Panchal
+- Susmita Mandal
+- Swapnil Khadapnis
+- Aman Singh
+
+## Additional Resources
+
+- Blog Link: [Frontend Masters Website Project](https://medium.com/@princesahil0065/frontend-masters-website-project-61079c9773d3)
+- Deploy Link: [Frontend Master Clone](https://zingy-cactus-84c80d.netlify.app/)
 
 
 Blog Link: https://medium.com/@princesahil0065/frontend-masters-website-project-61079c9773d3
